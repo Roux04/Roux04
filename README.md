@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roux04
 - 👀 I’m interested in web design and game development
-- 🌱 I’m currently learning programming through Java, as well as web development
+- 🌱 I’m currently learning programming through Python, as well as web development
 - 💞️ I’m not sure about collaboration, but I'd love to learn soon enough! 
 - 📫 How to reach me: rxgrinion@gmail.com
 
